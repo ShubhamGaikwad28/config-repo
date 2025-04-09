@@ -6,9 +6,9 @@ spring:
     name: crop-order-service
 
   datasource:
-    url: jdbc:mysql://localhost:3306/cropdeal_crops
+    url: jdbc:mysql://localhost:3306/cropdeal_order
     username: root
-    password: password
+    password: Shubh28gaikwad@
 
   jpa:
     hibernate:
